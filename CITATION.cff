@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this hardware or software, please cite our IEEE GCCE 2026 paper."
+title: "KAKI: A Modular Smart Insole Platform for Lower-Body Sensing and Health Monitoring"
+authors:
+  - family-names: "Wiratma"
+    given-names: "Ichiro Nathanael"
+  - family-names: "Santoso"
+    given-names: "Jonathan Richard"
+  - family-names: "Turnip"
+    given-names: "Alban Mulky Adiguna"
+  - family-names: "Piumarta"
+    given-names: "Ian"
+    orcid: "https://orcid.org/0000-0001-8915-5671"
+  - family-names: "Tjandra"
+    given-names: "Kayla Narina"
+  - family-names: "Liang"
+    given-names: "Zilu"
+    orcid: "https://orcid.org/0000-0002-2328-5016"
+preferred-citation:
+  type: conference-paper
+  title: "KAKI: A Modular Smart Insole Platform for Lower-Body Sensing and Health Monitoring"
+  collection-title: "2026 IEEE 15th Global Conference on Consumer Electronics (GCCE)"
+  year: 2026
+  authors:
+    - family-names: "Wiratma"
+      given-names: "Ichiro Nathanael"
+    - family-names: "Santoso"
+      given-names: "Jonathan Richard"
+    - family-names: "Turnip"
+      given-names: "Alban Mulky Adiguna"
+    - family-names: "Piumarta"
+      given-names: "Ian"
+    - family-names: "Tjandra"
+      given-names: "Kayla Narina"
+    - family-names: "Liang"
+      given-names: "Zilu"
