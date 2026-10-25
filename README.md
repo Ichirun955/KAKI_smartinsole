@@ -31,7 +31,7 @@ The physical insole separates the passive sensing footbed from the active electr
 
 * **Firmware:** C++ code for the XIAO nRF52840 to poll the I2C sensor array and transmit data via BLE UART at 100 Hz.
 * **Software:** Python scripts for host-side processing, including BLE reception, jitter buffering, and gait event detection.
-  * `step_validation.py`: Evaluates step-detection accuracy and calculates the unilateral coverage ceiling to justify bilateral deployment.
+
 
 ### Setup Instructions
 1. Clone this repository: `git clone https://github.com/Ichirun955/KAKI_smartinsole.git`
